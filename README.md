@@ -34,4 +34,4 @@ onboarding/
 
 ## 📩 문의
 보안팀 온보딩 담당자
-📧 seungmindev@github.com
+📧 logiciris@github.com
