@@ -34,4 +34,4 @@ onboarding/
 
 ## 📩 Contact
 Security Team Onboarding Lead
-📧 seungmindev@github.com
+📧 logiciris@github.com
